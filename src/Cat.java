@@ -7,9 +7,9 @@ public class Cat {
 	// pick a head dimension
 	// CHANGED head dimensions
 	private static final int HEAD_DIMENSION = 500;
-	// eyes will be about 1/4 from top of head and 1/4 from left
-	private static final int EYE_Y = HEAD_DIMENSION/4;
-	private static final int EYE_X = HEAD_DIMENSION/4;
+	// CHANGED eyes will be about 1/5 from top of head and 1/5 from left
+	private static final int EYE_Y = HEAD_DIMENSION/5;
+	private static final int EYE_X = HEAD_DIMENSION/5;
 	private static final int EYE_SEPARATION = HEAD_DIMENSION/2;
 	// pick eye dimensions
 	// CHANGED eye dimensions
@@ -44,7 +44,7 @@ public class Cat {
 		y = catY + MOUTH_Y;
 		g2.fillOval(x, y, MOUTH_WIDTH, MOUTH_HEIGHT);
 		g2.setColor(Color.orange);
-		// Meow text appears below cat head, +10 places below 
+		// text appears below cat head, +50 places below 
 		// so it doesn't overlap the drawing
 		// CHANGED messages
 		g2.drawString("vroom vroom", catX, catY+HEAD_DIMENSION+50);	
