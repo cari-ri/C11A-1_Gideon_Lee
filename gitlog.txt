@@ -1,0 +1,41 @@
+commit 0deb74435ce768510b8efc587f6944f0f1d691a4
+Author: Carissa Lee <carissalee@mines.edu>
+Date:   Tue Sep 27 11:58:36 2022 -0600
+
+    Changed dimensions of where the eyes are
+
+commit 90a24947cf2a2a7550700b09751ed3b11fae6590
+Author: ggid <gretagideon@mines.edu>
+Date:   Tue Sep 27 11:54:54 2022 -0600
+
+    changed eye dimensions and mouth dimensions
+
+commit 3ee8abcafe6c54145730dfa8669abc88c019c339
+Author: Carissa Lee <carissalee@mines.edu>
+Date:   Tue Sep 27 11:53:23 2022 -0600
+
+    Changed color of cat
+
+commit 7aeaee9eb70c91e8faab1fc24980beeda3d44a81
+Author: ggid <gretagideon@mines.edu>
+Date:   Tue Sep 27 11:51:08 2022 -0600
+
+    added comments about changes made
+
+commit 2817c8ef07a43ebcdd50f8203c54287cbd76daba
+Author: Carissa Lee <carissalee@mines.edu>
+Date:   Tue Sep 27 11:48:29 2022 -0600
+
+    Changed dimensions of head
+
+commit 613aa13c3be4e4c0bb40e443b68906538756315b
+Author: ggid <gretagideon@mines.edu>
+Date:   Tue Sep 27 11:43:50 2022 -0600
+
+    changed eyes and message
+
+commit 3a40edd080eaa63d1a8169d9253c1076c46f73d0
+Author: Carissa Lee <carissalee@mines.edu>
+Date:   Tue Sep 27 11:32:48 2022 -0600
+
+    Initial upload of src folder
